@@ -1,0 +1,34 @@
+C:\Users\Tero\Desktop\temp\AlkulukuTesti2\AlkulukuTesti2\bin\Debug\AlkulukuTesti2.exe
+C:\Users\Tero\Desktop\temp\AlkulukuTesti2\AlkulukuTesti2\bin\Debug\AlkulukuTesti2.pdb
+C:\Users\Tero\Desktop\temp\AlkulukuTesti2\AlkulukuTesti2\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Tero\Desktop\temp\AlkulukuTesti2\AlkulukuTesti2\obj\x86\Debug\AlkulukuTesti2.Form1.resources
+C:\Users\Tero\Desktop\temp\AlkulukuTesti2\AlkulukuTesti2\obj\x86\Debug\AlkulukuTesti2.Properties.Resources.resources
+C:\Users\Tero\Desktop\temp\AlkulukuTesti2\AlkulukuTesti2\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Tero\Desktop\temp\AlkulukuTesti2\AlkulukuTesti2\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Tero\Desktop\temp\AlkulukuTesti2\AlkulukuTesti2\obj\x86\Debug\AlkulukuTesti2.exe
+C:\Users\Tero\Desktop\temp\AlkulukuTesti2\AlkulukuTesti2\obj\x86\Debug\AlkulukuTesti2.pdb
+E:\AlkulukuTesti2\AlkulukuTesti2\obj\x86\Debug\AlkulukuTesti2.exe
+E:\AlkulukuTesti2\AlkulukuTesti2\obj\x86\Debug\AlkulukuTesti2.pdb
+E:\AlkulukuTesti2\AlkulukuTesti2\bin\Debug\AlkulukuTesti2.exe
+E:\AlkulukuTesti2\AlkulukuTesti2\bin\Debug\AlkulukuTesti2.pdb
+E:\AlkulukuTesti2\AlkulukuTesti2\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\AlkulukuTesti2\AlkulukuTesti2\obj\x86\Debug\AlkulukuTesti2.Form1.resources
+E:\AlkulukuTesti2\AlkulukuTesti2\obj\x86\Debug\AlkulukuTesti2.Properties.Resources.resources
+E:\AlkulukuTesti2\AlkulukuTesti2\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\AlkulukuTesti2\AlkulukuTesti2\obj\x86\Debug\GenerateResource.write.1.tlog
+F:\Tero\Koulutehtävät\Yliopisto\Algoritmit 2\harkka\AlkulukuTesti2\AlkulukuTesti2\obj\x86\Debug\AlkulukuTesti2.exe
+F:\Tero\Koulutehtävät\Yliopisto\Algoritmit 2\harkka\AlkulukuTesti2\AlkulukuTesti2\obj\x86\Debug\AlkulukuTesti2.pdb
+F:\Tero\Koulutehtävät\Yliopisto\Algoritmit 2\harkka\AlkulukuTesti2\AlkulukuTesti2\bin\Debug\AlkulukuTesti2.exe
+F:\Tero\Koulutehtävät\Yliopisto\Algoritmit 2\harkka\AlkulukuTesti2\AlkulukuTesti2\bin\Debug\AlkulukuTesti2.pdb
+F:\Tero\Koulutehtävät\Yliopisto\Algoritmit 2\harkka\AlkulukuTesti2\AlkulukuTesti2\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\Tero\Koulutehtävät\Yliopisto\Algoritmit 2\harkka\AlkulukuTesti2\AlkulukuTesti2\obj\x86\Debug\AlkulukuTesti2.Form1.resources
+F:\Tero\Koulutehtävät\Yliopisto\Algoritmit 2\harkka\AlkulukuTesti2\AlkulukuTesti2\obj\x86\Debug\AlkulukuTesti2.Properties.Resources.resources
+F:\Tero\Koulutehtävät\Yliopisto\Algoritmit 2\harkka\AlkulukuTesti2\AlkulukuTesti2\obj\x86\Debug\GenerateResource.read.1.tlog
+F:\Tero\Koulutehtävät\Yliopisto\Algoritmit 2\harkka\AlkulukuTesti2\AlkulukuTesti2\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\h26073\OneDrive - Centria ammattikorkeakoulu Oy\Materiaalia kursseille\Algoritmit 2\harkka\AlkulukuTesti2\AlkulukuTesti2\obj\x86\Debug\AlkulukuTesti.csprojAssemblyReference.cache
+C:\Users\h26073\OneDrive - Centria ammattikorkeakoulu Oy\Materiaalia kursseille\Algoritmit 2\harkka\AlkulukuTesti2\AlkulukuTesti2\obj\x86\Debug\AlkulukuTesti2.Form1.resources
+C:\Users\h26073\OneDrive - Centria ammattikorkeakoulu Oy\Materiaalia kursseille\Algoritmit 2\harkka\AlkulukuTesti2\AlkulukuTesti2\obj\x86\Debug\AlkulukuTesti2.Properties.Resources.resources
+C:\Users\h26073\OneDrive - Centria ammattikorkeakoulu Oy\Materiaalia kursseille\Algoritmit 2\harkka\AlkulukuTesti2\AlkulukuTesti2\obj\x86\Debug\AlkulukuTesti.csproj.GenerateResource.cache
+C:\Users\h26073\OneDrive - Centria ammattikorkeakoulu Oy\Materiaalia kursseille\Algoritmit 2\harkka\AlkulukuTesti2\AlkulukuTesti2\obj\x86\Debug\AlkulukuTesti.csproj.CoreCompileInputs.cache
+C:\Users\h26073\OneDrive - Centria ammattikorkeakoulu Oy\Materiaalia kursseille\Algoritmit 2\harkka\AlkulukuTesti2\AlkulukuTesti2\obj\x86\Debug\AlkulukuTesti2.exe
+C:\Users\h26073\OneDrive - Centria ammattikorkeakoulu Oy\Materiaalia kursseille\Algoritmit 2\harkka\AlkulukuTesti2\AlkulukuTesti2\obj\x86\Debug\AlkulukuTesti2.pdb

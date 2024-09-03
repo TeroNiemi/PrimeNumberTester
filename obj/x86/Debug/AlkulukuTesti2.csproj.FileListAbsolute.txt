@@ -1,0 +1,9 @@
+C:\Users\Tero\Desktop\temp\AlkulukuTesti2\AlkulukuTesti2\bin\Debug\AlkulukuTesti2.exe
+C:\Users\Tero\Desktop\temp\AlkulukuTesti2\AlkulukuTesti2\bin\Debug\AlkulukuTesti2.pdb
+C:\Users\Tero\Desktop\temp\AlkulukuTesti2\AlkulukuTesti2\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Tero\Desktop\temp\AlkulukuTesti2\AlkulukuTesti2\obj\x86\Debug\AlkulukuTesti2.Form1.resources
+C:\Users\Tero\Desktop\temp\AlkulukuTesti2\AlkulukuTesti2\obj\x86\Debug\AlkulukuTesti2.Properties.Resources.resources
+C:\Users\Tero\Desktop\temp\AlkulukuTesti2\AlkulukuTesti2\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Tero\Desktop\temp\AlkulukuTesti2\AlkulukuTesti2\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Tero\Desktop\temp\AlkulukuTesti2\AlkulukuTesti2\obj\x86\Debug\AlkulukuTesti2.exe
+C:\Users\Tero\Desktop\temp\AlkulukuTesti2\AlkulukuTesti2\obj\x86\Debug\AlkulukuTesti2.pdb
